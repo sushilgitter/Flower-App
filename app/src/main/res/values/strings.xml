@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Flower Shop</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="email_Address">Email address</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="login">Login</string>
+    <string name="dont_have_an_account">Don\'t have an account? Sign in </string>
+    <string name="login_to_your_account">Log in to your Account</string>
+    <string name="chinese_plum_flower">Chinese plum flower</string>
+    <string name="giftBox">Gift box</string>
+    <string name="flat_flower">Flat flower</string>
+    <string name="wedding_arch">Wedding arch</string>
+    <string name="popular_items">Popular Items</string>
+    <string name="view_all">View All</string>
+    <string name="angle">Angle</string>
+    <string name="price599">$ 599</string>
+    <string name="title_activity_popular_item_screen">PopularItemScreen</string>
+    <string name="title_activity_item_details">ItemDetails</string>
+    <string name="about">About</string>
+    <string name="lorem">
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+        Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s,
+        when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+    </string>
+    <string name="jannien">Includes :  Jannien Flower,lily leaves</string>
+    <string name="jannien_bouquet">Jannien Flower Bouquet</string>
+    <string name="title_activity_checkout_screen">CheckoutScreen</string>
+    <string name="checkout">Checkout</string>
+    <string name="fill_the_information_below">Fill the information below.</string>
+    <string name="sender_Information">Sender\'s Information</string>
+    <string name="sender_name">Sender\'s Name</string>
+    <string name="sender_address">Sender\'s Address</string>
+    <string name="message_to_receiver">Message to Receiver</string>
+    <string name="write_your_message_here">Write your Message here</string>
+
+    <string name="receiver_information">Receiver\'s Information</string>
+    <string name="receiver_name">Receiver\'s Name</string>
+    <string name="receiver_address">Receiver\'s Address</string>
+    <string name="receiver_contact_number">Receiver\'s Contact Number</string>
+    <string name="delivery_information">Delivery Information</string>
+    <string name="date_of_delivery">Date of Delivery</string>
+    <string name="title_activity_payment_method_screen">PaymentMethodScreen</string>
+    <string name="payment_method">Payment Method</string>
+    <string name="select_your_mode_of_payment">Select your mode of Payment</string>
+    <string name="title_activity_cart_items">CartItems</string>
+    <string name="cart_items">Cart Items</string>
+
+
+</resources>
